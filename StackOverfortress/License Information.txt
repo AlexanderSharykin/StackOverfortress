@@ -1,0 +1,23 @@
+﻿The following images were used in the Application:
+
+overflow.png
+by Aha-Soft Team
+found at: https://www.iconfinder.com/icons/386674/over_flow_overflow_icon
+license: Creative Commons (Attribution 3.0 Unported)
+license link: http://creativecommons.org/licenses/by/3.0/
+
+photo.png
+by The Pictographers
+found at: https://www.iconfinder.com/icons/667338/image_instagram_photo_pic_snapshot_social_media_icon
+license: Creative Commons (Attribution 2.5 Generic)
+license link: http://creativecommons.org/licenses/by/2.5/
+
+steam.png
+by Apeross (http://ampeross.deviantart.com/)
+foun at: https://www.iconfinder.com/icons/100523/steam_icon
+license: Free for commercial use
+
+hat.ico
+by IconDrawer (http://www.icondrawer.com/)
+fount at: https://www.iconfinder.com/icons/34846/halloween_hat_witch_hat_icon
+license: Free for commercial use
